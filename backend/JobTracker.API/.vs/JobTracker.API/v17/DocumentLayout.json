@@ -1,7 +1,12 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\JulioMoroyoqui\\Documents\\GitHub\\JobTrack\\backend\\JobTracker.API\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{704F483C-7377-4B28-AE80-DD39218E96B8}|JobTracker.API.Tests\\JobTracker.API.Tests.csproj|c:\\users\\juliomoroyoqui\\documents\\github\\jobtrack\\backend\\jobtracker.api\\jobtracker.api.tests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{704F483C-7377-4B28-AE80-DD39218E96B8}|JobTracker.API.Tests\\JobTracker.API.Tests.csproj|solutionrelative:jobtracker.api.tests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,11 +14,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\JulioMoroyoqui\\Documents\\GitHub\\JobTrack\\backend\\JobTracker.API\\JobTracker.API.Tests\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "JobTracker.API.Tests\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\JulioMoroyoqui\\Documents\\GitHub\\JobTrack\\backend\\JobTracker.API\\JobTracker.API.Tests\\UnitTest1.cs",
+              "RelativeToolTip": "JobTracker.API.Tests\\UnitTest1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T21:18:04.756Z",
+              "EditorCaption": ""
             }
           ]
         }
