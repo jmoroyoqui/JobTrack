@@ -3,8 +3,44 @@
   "WorkspaceRootPath": "C:\\Users\\JulioMoroyoqui\\Documents\\GitHub\\JobTrack\\backend\\JobTracker.API\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{5EC6E012-2FD8-4480-88FF-57454192F71D}|JobTracker.API\\JobTracker.API.csproj|c:\\users\\juliomoroyoqui\\documents\\github\\jobtrack\\backend\\jobtracker.api\\jobtracker.api\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5EC6E012-2FD8-4480-88FF-57454192F71D}|JobTracker.API\\JobTracker.API.csproj|solutionrelative:jobtracker.api\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{704F483C-7377-4B28-AE80-DD39218E96B8}|JobTracker.API.Tests\\JobTracker.API.Tests.csproj|c:\\users\\juliomoroyoqui\\documents\\github\\jobtrack\\backend\\jobtracker.api\\jobtracker.api.tests\\user\\registration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{704F483C-7377-4B28-AE80-DD39218E96B8}|JobTracker.API.Tests\\JobTracker.API.Tests.csproj|solutionrelative:jobtracker.api.tests\\user\\registration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EC6E012-2FD8-4480-88FF-57454192F71D}|JobTracker.API\\JobTracker.API.csproj|c:\\users\\juliomoroyoqui\\documents\\github\\jobtrack\\backend\\jobtracker.api\\jobtracker.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5EC6E012-2FD8-4480-88FF-57454192F71D}|JobTracker.API\\JobTracker.API.csproj|solutionrelative:jobtracker.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EC6E012-2FD8-4480-88FF-57454192F71D}|JobTracker.API\\JobTracker.API.csproj|c:\\users\\juliomoroyoqui\\documents\\github\\jobtrack\\backend\\jobtracker.api\\jobtracker.api\\models\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5EC6E012-2FD8-4480-88FF-57454192F71D}|JobTracker.API\\JobTracker.API.csproj|solutionrelative:jobtracker.api\\models\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EC6E012-2FD8-4480-88FF-57454192F71D}|JobTracker.API\\JobTracker.API.csproj|c:\\users\\juliomoroyoqui\\documents\\github\\jobtrack\\backend\\jobtracker.api\\jobtracker.api\\data\\base\\entitybaserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5EC6E012-2FD8-4480-88FF-57454192F71D}|JobTracker.API\\JobTracker.API.csproj|solutionrelative:jobtracker.api\\data\\base\\entitybaserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EC6E012-2FD8-4480-88FF-57454192F71D}|JobTracker.API\\JobTracker.API.csproj|c:\\users\\juliomoroyoqui\\documents\\github\\jobtrack\\backend\\jobtracker.api\\jobtracker.api\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5EC6E012-2FD8-4480-88FF-57454192F71D}|JobTracker.API\\JobTracker.API.csproj|solutionrelative:jobtracker.api\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EC6E012-2FD8-4480-88FF-57454192F71D}|JobTracker.API\\JobTracker.API.csproj|c:\\users\\juliomoroyoqui\\documents\\github\\jobtrack\\backend\\jobtracker.api\\jobtracker.api\\data\\base\\ientitybaserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5EC6E012-2FD8-4480-88FF-57454192F71D}|JobTracker.API\\JobTracker.API.csproj|solutionrelative:jobtracker.api\\data\\base\\ientitybaserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{704F483C-7377-4B28-AE80-DD39218E96B8}|JobTracker.API.Tests\\JobTracker.API.Tests.csproj|c:\\users\\juliomoroyoqui\\documents\\github\\jobtrack\\backend\\jobtracker.api\\jobtracker.api.tests\\user\\testbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{704F483C-7377-4B28-AE80-DD39218E96B8}|JobTracker.API.Tests\\JobTracker.API.Tests.csproj|solutionrelative:jobtracker.api.tests\\user\\testbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{704F483C-7377-4B28-AE80-DD39218E96B8}|JobTracker.API.Tests\\JobTracker.API.Tests.csproj|c:\\users\\juliomoroyoqui\\documents\\github\\jobtrack\\backend\\jobtracker.api\\jobtracker.api.tests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{704F483C-7377-4B28-AE80-DD39218E96B8}|JobTracker.API.Tests\\JobTracker.API.Tests.csproj|solutionrelative:jobtracker.api.tests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EC6E012-2FD8-4480-88FF-57454192F71D}|JobTracker.API\\JobTracker.API.csproj|c:\\users\\juliomoroyoqui\\documents\\github\\jobtrack\\backend\\jobtracker.api\\jobtracker.api\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5EC6E012-2FD8-4480-88FF-57454192F71D}|JobTracker.API\\JobTracker.API.csproj|solutionrelative:jobtracker.api\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,7 +50,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Bookmark",
@@ -22,13 +58,130 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Users.cs",
+              "DocumentMoniker": "C:\\Users\\JulioMoroyoqui\\Documents\\GitHub\\JobTrack\\backend\\JobTracker.API\\JobTracker.API\\Models\\Users.cs",
+              "RelativeDocumentMoniker": "JobTracker.API\\Models\\Users.cs",
+              "ToolTip": "C:\\Users\\JulioMoroyoqui\\Documents\\GitHub\\JobTrack\\backend\\JobTracker.API\\JobTracker.API\\Models\\Users.cs",
+              "RelativeToolTip": "JobTracker.API\\Models\\Users.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T06:31:14.244Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\JulioMoroyoqui\\Documents\\GitHub\\JobTrack\\backend\\JobTracker.API\\JobTracker.API\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "JobTracker.API\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\JulioMoroyoqui\\Documents\\GitHub\\JobTrack\\backend\\JobTracker.API\\JobTracker.API\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "JobTracker.API\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T06:25:47.628Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EntityBaseRepository.cs",
+              "DocumentMoniker": "C:\\Users\\JulioMoroyoqui\\Documents\\GitHub\\JobTrack\\backend\\JobTracker.API\\JobTracker.API\\Data\\Base\\EntityBaseRepository.cs",
+              "RelativeDocumentMoniker": "JobTracker.API\\Data\\Base\\EntityBaseRepository.cs",
+              "ToolTip": "C:\\Users\\JulioMoroyoqui\\Documents\\GitHub\\JobTrack\\backend\\JobTracker.API\\JobTracker.API\\Data\\Base\\EntityBaseRepository.cs",
+              "RelativeToolTip": "JobTracker.API\\Data\\Base\\EntityBaseRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T06:24:29.657Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IEntityBaseRepository.cs",
+              "DocumentMoniker": "C:\\Users\\JulioMoroyoqui\\Documents\\GitHub\\JobTrack\\backend\\JobTracker.API\\JobTracker.API\\Data\\Base\\IEntityBaseRepository.cs",
+              "RelativeDocumentMoniker": "JobTracker.API\\Data\\Base\\IEntityBaseRepository.cs",
+              "ToolTip": "C:\\Users\\JulioMoroyoqui\\Documents\\GitHub\\JobTrack\\backend\\JobTracker.API\\JobTracker.API\\Data\\Base\\IEntityBaseRepository.cs",
+              "RelativeToolTip": "JobTracker.API\\Data\\Base\\IEntityBaseRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T06:22:29.627Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\JulioMoroyoqui\\Documents\\GitHub\\JobTrack\\backend\\JobTracker.API\\JobTracker.API\\Program.cs",
+              "RelativeDocumentMoniker": "JobTracker.API\\Program.cs",
+              "ToolTip": "C:\\Users\\JulioMoroyoqui\\Documents\\GitHub\\JobTrack\\backend\\JobTracker.API\\JobTracker.API\\Program.cs",
+              "RelativeToolTip": "JobTracker.API\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T06:00:33.929Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TestBase.cs",
+              "DocumentMoniker": "C:\\Users\\JulioMoroyoqui\\Documents\\GitHub\\JobTrack\\backend\\JobTracker.API\\JobTracker.API.Tests\\User\\TestBase.cs",
+              "RelativeDocumentMoniker": "JobTracker.API.Tests\\User\\TestBase.cs",
+              "ToolTip": "C:\\Users\\JulioMoroyoqui\\Documents\\GitHub\\JobTrack\\backend\\JobTracker.API\\JobTracker.API.Tests\\User\\TestBase.cs",
+              "RelativeToolTip": "JobTracker.API.Tests\\User\\TestBase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T05:49:28.853Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Registration.cs",
+              "DocumentMoniker": "C:\\Users\\JulioMoroyoqui\\Documents\\GitHub\\JobTrack\\backend\\JobTracker.API\\JobTracker.API.Tests\\User\\Registration.cs",
+              "RelativeDocumentMoniker": "JobTracker.API.Tests\\User\\Registration.cs",
+              "ToolTip": "C:\\Users\\JulioMoroyoqui\\Documents\\GitHub\\JobTrack\\backend\\JobTracker.API\\JobTracker.API.Tests\\User\\Registration.cs",
+              "RelativeToolTip": "JobTracker.API.Tests\\User\\Registration.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAcwCgAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T05:40:22.815Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\JulioMoroyoqui\\Documents\\GitHub\\JobTrack\\backend\\JobTracker.API\\JobTracker.API\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "JobTracker.API\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\JulioMoroyoqui\\Documents\\GitHub\\JobTrack\\backend\\JobTracker.API\\JobTracker.API\\Controllers\\UserController.cs",
+              "RelativeToolTip": "JobTracker.API\\Controllers\\UserController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T05:29:47.365Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\JulioMoroyoqui\\Documents\\GitHub\\JobTrack\\backend\\JobTracker.API\\JobTracker.API\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "JobTracker.API\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\JulioMoroyoqui\\Documents\\GitHub\\JobTrack\\backend\\JobTracker.API\\JobTracker.API\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "JobTracker.API\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T05:29:20.804Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "UnitTest1.cs",
               "DocumentMoniker": "C:\\Users\\JulioMoroyoqui\\Documents\\GitHub\\JobTrack\\backend\\JobTracker.API\\JobTracker.API.Tests\\UnitTest1.cs",
               "RelativeDocumentMoniker": "JobTracker.API.Tests\\UnitTest1.cs",
               "ToolTip": "C:\\Users\\JulioMoroyoqui\\Documents\\GitHub\\JobTrack\\backend\\JobTracker.API\\JobTracker.API.Tests\\UnitTest1.cs",
               "RelativeToolTip": "JobTracker.API.Tests\\UnitTest1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAQwAoAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-20T21:18:04.756Z",
               "EditorCaption": ""
